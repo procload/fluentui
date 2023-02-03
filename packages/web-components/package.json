@@ -36,6 +36,10 @@
       "types": "./dist/esm/text/define.d.ts",
       "default": "./dist/esm/text/define.js"
     },
+    "./panel": {
+      "types": "./dist/esm/panel/define.d.ts",
+      "default": "./dist/esm/panel/define.js"
+    },
     "./progress-bar": {
       "types": "./dist/esm/progress-bar/define.d.ts",
       "default": "./dist/esm/progress-bar/define.js"
