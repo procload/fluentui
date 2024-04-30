@@ -1,0 +1,7 @@
+{
+  "type": "prerelease",
+  "comment": "Adds aria-disabled to child tabs when parent tab group has disabled attribute",
+  "packageName": "@fluentui/web-components",
+  "email": "ryan@ryanmerrill.net",
+  "dependentChangeType": "patch"
+}
